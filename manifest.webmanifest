@@ -1,0 +1,12 @@
+{
+  "name": "FamilyRoots Genealogy",
+  "short_name": "FamilyRoots",
+  "description": "A private, offline-first family history notebook.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f6f0",
+  "theme_color": "#294b3d",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
